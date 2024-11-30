@@ -1,0 +1,33 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-knibbe/
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: Knibbe
+TeamMembers:
+  - Name: Muhammed Hussain
+    Email: muhammed@student.unimelb.edu.au
+  - Name: Wing Lam Ip
+    Email: winglami@student.unimelb.edu.au
+  - Name: Joseph Goodsell
+    Email: jgoodsell@student.unimelb.edu.au
+  - Name: Linda Luisa Schoettler
+    Email: lschottler@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Lantern Head
+GameBlurb: >
+  Dive into the dark, foreboding world of "Lantern Head", a uniquely crafted isometric, rogue-lite(-like) horror action game. Set in the decaying confines of an ancient religious compound reminiscent of old-world monasteries, players take on the role of the last keeper of a sacred flame, a devoted figure transformed into a living lantern. The core mission: Protect this dwindling beacon of hope from the encroaching darkness and its malevolent minions. Every minute counts in the 5-minute countdown to dawn, as the flame's extinction could unleash a terror that engulfs the land. In this pixel art adventure, light and shadow are more than mere visuals; they are the essence of gameplay. The lantern's light serves dual purposes, guiding players and revealing stealthy foes. This high-contrast environment is both your weapon and your weakness. "Lantern Head" promises an immersive experience that blurs the lines between light and darkness, hope and despair.
+
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/7KHXN8pDNuU
